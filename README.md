@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-<img src="https://count.getloli.com/get/@WittF?theme=rule34" alt="@WittF" /> <img src="[https://count.getloli.com/get/@WittF?theme=rule34](https://stats.deeptrain.net/user/WittF?theme=light)" alt="@WittF" />
+<img src="https://count.getloli.com/get/@WittF?theme=rule34" alt="@WittF" /> [![web-chatgpt-qq-bot's Github Stats](https://stats.deeptrain.net/user/WittF?theme=light](https://github.com/zmh-program/code-statistic)
 
 ---
 <!--

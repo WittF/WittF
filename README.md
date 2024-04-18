@@ -2,7 +2,7 @@
 ---
 <img src="https://count.getloli.com/get/@WittF?theme=rule34" alt="@WittF" /> 
 
-[![web-chatgpt-qq-bot's Github Stats](https://stats.deeptrain.net/user/WittF?theme=light](https://github.com/zmh-program/code-statistic)
+[![Deeptrain's Github Stats](https://stats.deeptrain.net/repo/zmh-program/chatnio)](https://github.com/zmh-program/code-statistic)
 
 ---
 <!--

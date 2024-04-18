@@ -2,7 +2,7 @@
 
 ---
 
-<img src="https://count.getloli.com/get/@WittF?theme=rule34" alt="@WittF" /> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WittF)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://count.getloli.com/get/@WittF?theme=rule34" alt="@WittF" /> 
 
 ---
 <!--

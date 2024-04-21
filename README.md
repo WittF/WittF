@@ -6,6 +6,6 @@
 
 ### I'm WittF 😎
 
-<img src="https://readme-stats-github-olive.vercel.app/api?username=WittF&cc=FFFFFF&tc=808080&ic=000000&bc=FFFFFF" alt="@WittF" /> 
+<img src="https://readme-stats-github-git-main-wittfs-projects.vercel.app/api?username=WittF&cc=FFFFFF&tc=808080&ic=000000&bc=FFFFFF" alt="@WittF" /> 
 
 ##
